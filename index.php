@@ -10,6 +10,8 @@
     
     <h1 id="name">Welcome To,Cybercom Creation</h1>
     click here☝
+    <br>
+    <img src="assests/cybercom-creation-logo.jpg">
 
 
     <script src="myjs.js"></script>
