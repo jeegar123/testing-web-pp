@@ -6,6 +6,6 @@
     <title>index</title>
 </head>
 <body>
-    <h1>Welcome To,Cybercome Creation</h1>
+    <h1>Welcome To,Cybercom Creation</h1>
 </body>
-</html>
+</html> 
