@@ -7,6 +7,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Welcome To,Cybercom Creation</h1>
+    <h1 id="name">Welcome To,Cybercom Creation</h1>
+    click here☝
+
+
+    <script src="myjs.js"></script>
 </body>
 </html> 
